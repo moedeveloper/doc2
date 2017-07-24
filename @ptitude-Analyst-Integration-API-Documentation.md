@@ -227,7 +227,7 @@ _Figure 18_ MCDAlarm Object
 |-----------|:-----------:|-----------
 | aptitude/hierarchy| parentId| path of asset of type string |
 
-parentId parameter could be collected from request R6
+`parentId` parameter could be collected from request R6
 
 # App Architecture 
 # Devops Guide
