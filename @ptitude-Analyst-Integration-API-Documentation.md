@@ -1,4 +1,4 @@
-# This Section Describe the APIs implemeted in Entreprise Service Bus Integration application.
+# This Section Describes the implemented APIs in **Entreprise Service Bus Integration** application.
 
 This application was implemented as a general solution to interact between SKF @A and Maximo platform. This REST application  has returns of JSON format and secured with "TransportCredentialOnly" with the following Credentials:
 - username: skf
